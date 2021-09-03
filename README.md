@@ -1,1 +1,1 @@
-# TourOfHeroesAngular
+# Tour of Heroes Tutorial
